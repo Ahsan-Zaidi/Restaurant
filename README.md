@@ -18,14 +18,14 @@
 
 I have created a landing page as a blueprint for any restaurant looking to improve their website UI. The purpose of this app is to improve my frontend design skills.
 
-✋ [GitHub Repository] 
+✋ [GitHub Repository] https://github.com/Ahsan-Zaidi/Restaurant
 
 ✋ [Deployed App] 
 
 ## ✋User Story
 
-I WANT to search for workouts using name, equipment, or muscle
-SO THAT I can imporve my workouts
+I WANT create a restaurant frontend landing page
+SO THAT I can improve my REACT design
 
 ## Table of Contents
 - [Description](#description)
